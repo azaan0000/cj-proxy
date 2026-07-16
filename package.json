@@ -1,0 +1,12 @@
+{
+  "name": "cj-proxy",
+  "version": "1.0.0",
+  "description": "Reverse proxy for CJ Dropshipping API to avoid Cloudflare's shared-IP rate limit",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
